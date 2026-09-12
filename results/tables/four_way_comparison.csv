@@ -1,0 +1,9 @@
+Model,Accuracy,Balanced Accuracy,Precision,Recall,F1,ROC-AUC
+Persistence,0.5102,0.507,0.5466,0.5466,0.5466,
+Majority Class,0.5401,0.5,0.5401,1.0,0.7014,
+Logistic Regression (Raw),0.4817,0.4702,0.518,0.61,0.5603,0.4788
+Random Forest (Raw),0.4655,0.5054,0.6923,0.0225,0.0436,0.4696
+Gradient Boosting (Raw),0.4817,0.4817,0.523,0.4825,0.502,0.4719
+Logistic Regression (Engineered),0.4844,0.4706,0.5183,0.6423,0.5737,0.4689
+Random Forest (Engineered),0.4503,0.4813,0.4578,0.0957,0.1583,0.4992
+Gradient Boosting (Engineered),0.4599,0.4802,0.5,0.2267,0.312,0.4904
